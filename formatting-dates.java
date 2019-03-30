@@ -1,5 +1,8 @@
 import java.text.SimpleDateFormat;
 import java.util.Date;
+
+
+// Calls the date function and prints output in a variety of formats
   
 public class DateTest {
    public static void main(String[] args) {
